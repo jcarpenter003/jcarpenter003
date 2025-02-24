@@ -1,1 +1,1 @@
-Howdy partners I love to code 
+Working on smaller projects to learn new techniques/languages
